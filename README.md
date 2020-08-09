@@ -1,4 +1,5 @@
 ### Bem-Vindo(a) ao meu perfil!👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/viniciusfinger/)
-![](https://img.shields.io/github/followers/viniciusfinger?label=Siga%21&style=social)]
+![](https://img.shields.io/github/followers/viniciusfinger?label=Siga%21&style=social)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fingervinicius@icloud.com)](mailto:fingervinicius@icloud.com)
