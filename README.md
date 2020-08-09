@@ -1,5 +1,5 @@
 ### Bem-Vindo(a) ao meu perfil!👋
-Estudante de Ciência da Computação pela Universidade La Salle
+Sou estudante de Ciência da Computação pela Universidade La Salle, atualmente desenvolvendo com Java na PUCRS e estudando ReactJS.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/viniciusfinger/)
 ![](https://img.shields.io/github/followers/viniciusfinger?label=Siga%21&style=social)
