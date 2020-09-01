@@ -1,7 +1,7 @@
 ### Bem-Vindo(a) ao meu perfil!👋
 Estudante de Ciência da Computação pela Universidade La Salle, atualmente desenvolvedor Java na PUCRS.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/viniciusfinger/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=purple&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/viniciusfinger/)
 ![](https://img.shields.io/github/followers/viniciusfinger?label=Siga%21&style=social)
 
 Contato: fingervinicius@icloud.com
