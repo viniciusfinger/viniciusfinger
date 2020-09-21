@@ -1,5 +1,5 @@
 ### Bem-Vindo(a)!👋
-Estudante de Ciência da Computação pela Universidade La Salle 🎓, desenvolvedor Java ☕ na [PUCRS](https://www.pucrs.br/).
+Sou estudante de Ciência da Computação pela Universidade La Salle 🎓, desenvolvedor Java ☕ na [PUCRS](https://www.pucrs.br/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/viniciusfinger/)
 ![](https://img.shields.io/github/followers/viniciusfinger?label=Siga%21&style=social)
