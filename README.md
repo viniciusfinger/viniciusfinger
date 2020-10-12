@@ -21,6 +21,4 @@
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvideo-react.js.org%2Fassets%2Flogo.png&f=1&nofb=1" width="100" alt="ReactJS React Native">
 <img src="https://img.icons8.com/color/452/spring-logo.png" width="100" alt="Spring">
-<img src="https://denoland.gallerycdn.vsassets.io/extensions/denoland/vscode-deno/2.2.3/1600021173441/Microsoft.VisualStudio.Services.Icons.Default" width="100" alt="Deno">
-
 </div>
