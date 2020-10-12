@@ -20,7 +20,7 @@
 ### Frameworks
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvideo-react.js.org%2Fassets%2Flogo.png&f=1&nofb=1" width="100" alt="ReactJS React Native">
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpretty-dece.com%2Fimages%2FLogos%2Fnodejs-icon.png&f=1&nofb=1A%2F%2Fassets.toptal.io%2Fuploads%2Fblog%2Fcategory%2Flogo%2F45%2Fnodejs.png&f=1&nofb=1" width="100" alt="NodeJS">
+<img src="https://img.icons8.com/color/452/spring-logo.png" width="100" alt="Spring">
 <img src="https://denoland.gallerycdn.vsassets.io/extensions/denoland/vscode-deno/2.2.3/1600021173441/Microsoft.VisualStudio.Services.Icons.Default" width="100" alt="Deno">
 
 </div>
