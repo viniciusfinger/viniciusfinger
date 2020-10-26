@@ -13,7 +13,7 @@
 
 <!-- ## 💻 Programming -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfinger&hide_border=true&langs_count=15&hide=jupyter%20notebook,html,c%2B%2B,shell&title_color=000" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfinger&hide_border=true&langs_count=15&hide=jupyter%20notebook,html,css,c%2B%2B,shell&title_color=000" align="left">
 
 <div align="center">
 
