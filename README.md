@@ -1,10 +1,6 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div align="center">
 
 # Vinícius Finger
-
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="viniciusfinger" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/viniciusfinger?trk=profile-badge">Vinícius Finger</a></div>
-              
   
   [![email: fingervinicius@icloud.com](https://img.shields.io/static/v1?label=Email&message=%20&color=8B89CC&labelColor=8B89CC&logoColor=FFF&style=for-the-badge&logo=protonmail)](mailto:fingervinicius@icloud.com)
   [![linkedin: viniciusfinger](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=0077B5&labelColor=0077B5&logoColor=FFF&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/viniciusfinger/)
