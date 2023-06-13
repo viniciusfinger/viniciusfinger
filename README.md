@@ -4,10 +4,10 @@
 - ➕ Além de desenvolvedor Java, já trabalhei com infraestrutura de redes e fui desenvolvedor full-stack.  
   
 
-- 📚 Para ajudar a comunidade e pessoas que estão começando, criei um [Instagram](https://instagram.com/roadtosenior) onde compartilho conteúdos de tecnologia e programação.  
+- 📚 Para ajudar a comunidade e pessoas que estão começando, criei um [Instagram](https://instagram.com/finger.dev) onde compartilho conteúdos de tecnologia e programação.  
   
 
-- 🌱 Atualmente estou focado em desenvolver minhas habilidades de back-end e me atualizar com as novas tendências de infraestrutura em nuvem e processamento de dados.   
+- 🌱 Atualmente estou focado em desenvolver minhas habilidades de back-end e me atualizar de acordo com as novas tendências de infraestrutura em nuvem e processamento de dados.   
   
 
 <br/>  
