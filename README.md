@@ -1,12 +1,13 @@
 # Hey you! 👋
 
-I'm a dev at Itaú Unibanco/Zup Innovation in Brazil, currently working with credit cards. I like building side projects to discover new areas and validate ideas. I'm interested in back-end developing, machine learning and geoprocessing.
+I'm a Brazilian Software Engineer, currently working with credit cards. I like building side projects to discover new areas and validate ideas. I'm interested in back-end development and AI.
 
 
 ## Recent Articles 🗞️
 
 Here are some recent articles I've recently written on Medium:
 
+- [Reducing LLM hallucinations with Supervisor Agent Architecture 🔎](https://medium.com/@fingervinicius/reducing-llm-hallucinations-with-agent-supervisor-architecture-569f572d0da1)
 - [How to Parallelize Nodes in LangGraph 🔀](https://medium.com/@fingervinicius/how-to-parallelize-nodes-in-langgraph-3c2667bd9c3f)
 - [How Crypto.com Applied Generative AI to Make Data-Driven Decisions 🎯](https://medium.com/@sapienslabai/how-crypto-com-applied-generative-ai-to-make-data-driven-decisions-bf7eaedc4b33)
 - [What are AI Agents and How Can They Increase Your Business Revenue? 🤖](https://medium.com/@sapienslabai/what-are-ai-agents-and-how-can-they-increase-your-business-revenue-a65c1abae21a)
