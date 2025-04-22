@@ -1,6 +1,6 @@
 # Hey you! 👋
 
-I'm a Brazilian Software Engineer, currently working with credit cards. I like building side projects to discover new areas and validate ideas. I'm interested in back-end development and AI.
+I'm a Brazilian Software Engineer, currently working with Generative AI. I like building side projects to discover new areas and validate ideas. I'm interested in Artificial Intelligence and Back-end.
 
 
 ## Recent Articles 🗞️
