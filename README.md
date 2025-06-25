@@ -7,6 +7,7 @@ I'm a Brazilian Software Engineer, currently working with Generative AI. I like 
 
 Here are some recent articles I've recently written on Medium:
 
+- [LLMs for developers in 10 minutes ⏰](https://medium.com/@fingervinicius/llms-for-developers-in-10-minutes-39fbec0a8896)
 - [Reducing LLM hallucinations with Supervisor Agent Architecture 🔎](https://medium.com/@fingervinicius/reducing-llm-hallucinations-with-agent-supervisor-architecture-569f572d0da1)
 - [How to Parallelize Nodes in LangGraph 🔀](https://medium.com/@fingervinicius/how-to-parallelize-nodes-in-langgraph-3c2667bd9c3f)
 - [How Crypto.com Applied Generative AI to Make Data-Driven Decisions 🎯](https://medium.com/@sapienslabai/how-crypto-com-applied-generative-ai-to-make-data-driven-decisions-bf7eaedc4b33)
