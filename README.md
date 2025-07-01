@@ -19,11 +19,11 @@ I regularly write about software engineering, AI, and productivity. Check out so
 
 ## Interests & Focus 🧠
 
-Generative AI & LLMs
-AI Agents (LangChain, LangGraph, ReAct)
-NLP
-Healthtech
-Java / Spring Boot
-Python for AI & Data
-System Design & Scalability
-API Architecture
+- Generative AI & LLMs
+- AI Agents (LangChain, LangGraph, ReAct)
+- NLP
+- Healthtech
+- Java / Spring Boot
+- Python for AI & Data
+- System Design & Scalability
+- API Architecture
