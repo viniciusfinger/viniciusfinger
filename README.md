@@ -1,11 +1,12 @@
 # Hey you! 👋
 
-I'm a Brazilian Software Engineer, currently working with Generative AI. I like building side projects to discover new areas and validate ideas. I'm interested in Artificial Intelligence and Back-end.
+I'm Vinícius Finger, a Brazilian Software Engineer passionate about Artificial Intelligence and Back-end development. Currently, I’m working with Generative AI, exploring how cutting-edge LLMs and AI agents can be applied to real-world problems.
 
+I love building side projects to validate ideas, explore new technologies, and share what I learn with the community.
 
-## Recent Articles 🗞️
+## Latest Articles on Medium 🗞️
 
-Here are some recent articles I've recently written on Medium:
+I regularly write about software engineering, AI, and productivity. Check out some of my recent posts:
 
 - [LLMs for developers in 10 minutes ⏰](https://medium.com/@fingervinicius/llms-for-developers-in-10-minutes-39fbec0a8896)
 - [Reducing LLM hallucinations with Supervisor Agent Architecture 🔎](https://medium.com/@fingervinicius/reducing-llm-hallucinations-with-agent-supervisor-architecture-569f572d0da1)
@@ -16,5 +17,13 @@ Here are some recent articles I've recently written on Medium:
 - [How to Handle Validation Errors in Spring Boot to Become Human-Friendly 🍃❌](https://medium.com/@fingervinicius/how-to-handle-validation-errors-in-spring-boot-to-become-human-friendly-90bd2ec3ed6e)
 - [Easy Running Keycloak with Docker Compose 🔑🐳](https://medium.com/@fingervinicius/easy-running-keycloak-with-docker-compose-b0d7a4ee2358)
 
---- 
-![](pink_floyd.gif)
+## Interests & Focus 🧠
+
+Generative AI & LLMs
+AI Agents (LangChain, LangGraph, ReAct)
+NLP
+Healthtech
+Java / Spring Boot
+Python for AI & Data
+System Design & Scalability
+API Architecture
