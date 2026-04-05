@@ -1,8 +1,9 @@
 # Hey you! 👋
 
-I'm Vinícius Finger, a Brazilian Software Engineer passionate about Artificial Intelligence and Back-end development. Currently, I’m working with Generative AI, exploring how cutting-edge LLMs and AI agents can be applied to real-world problems.
-
-I love building side projects to validate ideas, explore new technologies, and share what I learn with the community.
+I'm Vinícius Finger, a Brazilian Software Engineer focused on Artificial Intelligence and backend systems.
+I currently work with Generative AI, building applications powered by LLMs and autonomous agents to solve real-world problems.
+Lately, I’ve been deeply exploring healthcare tech, especially healthcare data, interoperability (FHIR), and how AI can improve access, continuity, and usability of medical information across borders.
+I enjoy building side projects to validate ideas, experiment with new technologies, and share what I learn. I'm particularly interested in creating systems that are simple, scalable, and globally usable.
 
 ## Latest Articles on Medium 🗞️
 
